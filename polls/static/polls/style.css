@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+    /* Replace 'your-image-url-here' with the actual URL of your background image */
+    background-image: url('https://images.unsplash.com/photo-1468817739446-479f000a4c0f?&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-position: center; /* Center the background image */
+    background-size: cover; /* Ensure the image covers the whole screen */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+}
+
+a, li {
+    color: blue; /* This will make text color of <a> and <li> green */
+}
